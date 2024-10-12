@@ -1,0 +1,25 @@
+State,Area_Type,Total_Area,Burnt_Area,Percent_Burnt_Area
+Australian Capital Territory,Native Forest,130000,83000,64
+New South Wales,Native Forest,19925000,5015000,25
+Northern Territory,Native Forest,23686000,0,0
+Queensland,Native Forest,51580000,510000,1
+South Australia,Native Forest,4856000,118000,2.4
+Tasmania,Native Forest,3342000,27000,0.8
+Victoria,Native Forest,7645000,1444000,19
+Western Australia,Native Forest,20450000,1140000,5.6
+Australian Capital Territory,Commercial Plantation,7000,0,0.2
+New South Wales,Commercial Plantation,380000,92000,24
+Northern Territory,Commercial Plantation,45000,0,0
+Queensland,Commercial Plantation,229000,4000,1.9
+South Australia,Commercial Plantation,178000,17000,10
+Tasmania,Commercial Plantation,311000,3000,0.8
+Victoria,Commercial Plantation,415000,10000,2.4
+Western Australia,Commercial Plantation,383000,4000,1.2
+Australian Capital Territory,Other,5000,0,2.7
+New South Wales,Other,62000,16000,26
+Northern Territory,Other,4000,0,0
+Queensland,Other,21000,0,1.3
+South Australia,Other,25000,2000,7.9
+Tasmania,Other,46000,0,0.4
+Victoria,Other,162000,3000,2
+Western Australia,Other,148000,0,0.2
